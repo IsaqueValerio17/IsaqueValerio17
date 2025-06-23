@@ -1,4 +1,4 @@
-![Animação](./Assets.GitHub/banner/animacao.gif)
+![Animação](./Assets.GitHub/banner/BannerAnimacao.gif)
 
 # 👋 Olá! Eu sou o Isaque
   
