@@ -1,6 +1,6 @@
 ![Banner](./Assets.GitHub/banner/BannerScript.gif)
 ![Animação](./Assets.GitHub/banner/Animacao.gif)
-![BlueLine](./Assets.GitHub/more/blueLine.jpg)
+![BlueLine](./Assets.GitHub/more/colorLine.png)
 
 <h2 align="center">Front-End Developer</h2>
 
@@ -11,21 +11,20 @@
 - **HTML / CSS / JavaScript**
 - **React ()**   
 
-![BlueLine](./Assets.GitHub/more/blueLine.jpg)
+![BlueLine](./Assets.GitHub/more/colorLine.png)
 
 ## 💡 Próximos passos:
 
 - Desenvolver e publicar meus primeiros projetos Front-End  
 - Montar meu portfólio online com projetos e contato profissional  
 
-![BlueLine](./Assets.GitHub/more/blueLine.jpg)
-
+---
 
 ## 📫 Contato
 
 (Em breve colocarei meus links de LinkedIn e demais formas para contato.)
 
-![BlueLine](./Assets.GitHub/more/blueLine.jpg)
+---
 
 ## 🧠 Um pouco mais sobre mim
 
@@ -35,5 +34,8 @@ Atualmente, sou iniciante em programação e estou focando meus estudos em lógi
 Meu principal objetivo no momento é crescer como **desenvolvedor Front-End**, adquirindo experiência e construindo projetos práticos.  
 A longo prazo, pretendo evoluir para atuar como **desenvolvedor Full Stack**, com foco em trabalho remoto e oportunidades no exterior.
 
-![BlueLine](./Assets.GitHub/more/blueLine.jpg)
+---
+
 Obrigado por visitar meu perfil! Estou sempre aprendendo e aberto a conexões.
+
+![BlueLine](./Assets.GitHub/more/colorLine.png)
