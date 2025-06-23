@@ -4,12 +4,11 @@
 
 <h2 align="center">Front-End Developer</h2>
 
-
-## 🚀 Em aprendizado:
+### 🚀 Em aprendizado:
 
 - **Lógica de Programação** (JavaScript)
 - **HTML / CSS / JavaScript**
-- **React ()**   
+- **React ()**
 
 ![BlueLine](./Assets.GitHub/more/colorLine.png)
 
