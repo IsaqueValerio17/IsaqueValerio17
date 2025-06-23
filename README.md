@@ -4,28 +4,27 @@
 
 <h2 align="center">Front-End Developer</h2>
 
-### 🚀 Em aprendizado:
+## 🚀 Em processo de aprendizagem:
 
-- **Lógica de Programação** (JavaScript)
-- **HTML / CSS / JavaScript**
-- **React ()**
+- **Lógica de Programação** e :
+(./Assets.GitHub/icones/Stacks.png)
 
 ![BlueLine](./Assets.GitHub/more/colorLine.png)
 
-## 💡 Próximos passos:
+### 💡 Próximos passos:
 
 - Desenvolver e publicar meus primeiros projetos Front-End  
 - Montar meu portfólio online com projetos e contato profissional  
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 (Em breve colocarei meus links de LinkedIn e demais formas para contato.)
 
 ---
 
-## 🧠 Um pouco mais sobre mim
+### 🧠 Um pouco mais sobre mim
 
 Me chamo **Isaque Cruz Valerio**, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas.  
 Atualmente, sou iniciante em programação e estou focando meus estudos em lógica e desenvolvimento Front-End.
