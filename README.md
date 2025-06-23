@@ -8,7 +8,7 @@
 
 - **Lógica de Programação** 
  
-(./Assets.GitHub/icones/Stacks.png)
+![icones](./Assets.GitHub/icones/Stacks.png)
 
 ![BlueLine](./Assets.GitHub/more/colorLine.png)
 
