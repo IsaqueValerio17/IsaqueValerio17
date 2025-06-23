@@ -1,9 +1,8 @@
-![Animação](./Assets.GitHub/banner/BannerAnimacao.gif)
+![Banner](./Assets.GitHub/banner/BannerScript.gif)
+![Animação](./Assets.GitHub/banner/Animacao.gif)
+![BlueLine](./Assets.GitHub/more/blueLine.jpeg)
 
-# 👋 Olá! Eu sou o Isaque
-  
-💻 Iniciante em programação, atualmente focado em Front-End  
-🎯 Objetivo: conseguir minha primeira vaga na área até 2026  
+<h2 align="center">Front-End Developer</h2>
 
 ---
 
