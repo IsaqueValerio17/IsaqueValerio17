@@ -6,7 +6,8 @@
 
 ## 🚀 Em processo de aprendizagem:
 
-- **Lógica de Programação** e :
+- **Lógica de Programação** 
+ 
 (./Assets.GitHub/icones/Stacks.png)
 
 ![BlueLine](./Assets.GitHub/more/colorLine.png)
