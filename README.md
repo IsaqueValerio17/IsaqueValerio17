@@ -4,20 +4,20 @@
 
 //<h2 align="center">Front-End Developer</h2>
 
-//### 🚀 Em processo de aprendizagem:
+<!--### 🚀 Em processo de aprendizagem:
 
-//- **Lógica de Programação** e 
+- **Lógica de Programação** e 
  
-//![icones](./Assets.GitHub/icones/Stacks.png)
+![icones](./Assets.GitHub/icones/Stacks.png) -->
 
 //![BlueLine](./Assets.GitHub/more/colorLine.png)
 
-//### 💡 Meus próximos passos:
+<!--### 💡 Meus próximos passos:
 
 //- Desenvolver e publicar meus primeiros projetos Front-End  
 //- Montar meu portfólio online com projetos e contato profissional  
 
-//---
+//--- -->
 
 ### 📫 Contato
 
