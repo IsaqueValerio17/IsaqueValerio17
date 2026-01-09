@@ -1,4 +1,3 @@
-![Banner](./Assets.GitHub/banner/BannerScript.gif)
 ![Animação](./Assets.GitHub/banner/Animacao.gif)
 ![BlueLine](./Assets.GitHub/more/colorLine.png)
 
