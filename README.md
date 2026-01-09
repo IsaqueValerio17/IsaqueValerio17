@@ -21,14 +21,13 @@
 
 ### 📫 Contato
 
-(Em breve colocarei meus links de LinkedIn e demais formas para contato.)
+isaquevalerio8@gmail.com
 
 ---
 
 ### 🧠 Um pouco mais sobre mim
 
-Me chamo **Isaque Cruz Valerio**, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas, (estou ainda no primeiro periodo).  
-Atualmente, sou iniciante em programação e estou focando meus estudos em lógica e desenvolvimento Front-End.
+Me chamo **Isaque Cruz Valerio**, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas.  
 
 Meu principal objetivo no momento é crescer como **desenvolvedor Front-End**, adquirindo experiência e construindo projetos práticos.  
 A longo prazo, pretendo evoluir para atuar como **desenvolvedor Full Stack**, com foco em trabalho remoto e oportunidades no exterior.
